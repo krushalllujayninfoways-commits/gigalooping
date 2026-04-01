@@ -1,0 +1,21 @@
+{
+  "name": "gigalooping",
+  "version": "1.0.0",
+  "description": "Professional 3D Web Experience",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "build": "echo 'Build script here'"
+  },
+  "keywords": [
+    "3d",
+    "web",
+    "three.js",
+    "professional"
+  ],
+  "author": "Gigalooping",
+  "license": "MIT",
+  "dependencies": {
+    "three": "^128.0.0"
+  }
+}
